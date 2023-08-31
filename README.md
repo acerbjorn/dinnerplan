@@ -1,1 +1,1 @@
-This is a short script to help randomize cooking dates for all the people in our dormitory. It's set up to assign to cooks to the coming wednesdays and sundays. Though not all functionality is included.
+This is a short script to help randomize cooking dates for all the people in our dormitory. It's set up to assign to cooks to the coming wednesdays and sundays. Though not all functionality is included. It reads a cooks.csv and outputs a schedule.csv, both of which are not included.
